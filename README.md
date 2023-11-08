@@ -1,2 +1,2 @@
 # MovementMeta
-Repositorio creado para el testeo del SDK Movement Meta
+Repository created for testing the Movement Meta SDK
