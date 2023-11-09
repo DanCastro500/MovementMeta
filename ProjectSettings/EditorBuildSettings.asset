@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Scenes/MovementRetargeting.unity
-    guid: b84b9d14bc8809c4dae71e7672447d56
-  - enabled: 1
     path: Assets/Samples/Scenes/MovementAura.unity
     guid: cfdbf46fae9acb24e962bbc068678614
   - enabled: 1
@@ -18,8 +15,14 @@ EditorBuildSettings:
     path: Assets/Samples/Scenes/MovementHighFidelity.unity
     guid: 9396dbe158838cf4c932d78a7434b4d6
   - enabled: 1
+    path: Assets/Samples/Scenes/MovementHighFidelityMR.unity
+    guid: 33920a595be2b394da996bcb2d2147a5
+  - enabled: 1
     path: Assets/Samples/Scenes/MovementHipPinning.unity
     guid: 478d6e24330a53340ab3c200f515eba1
+  - enabled: 1
+    path: Assets/Samples/Scenes/MovementRetargeting.unity
+    guid: b84b9d14bc8809c4dae71e7672447d56
   - enabled: 1
     path: Assets/Samples/Scenes/MovementISDKIntegration.unity
     guid: e6e0571e150dae247989206366c90be9
